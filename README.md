@@ -1,1 +1,1 @@
-# snap-cs61b
+# cs-61b
